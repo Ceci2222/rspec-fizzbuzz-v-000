@@ -10,5 +10,5 @@ def fizzbuzz(int)
   elsif int % 5 == 0 
     puts "Buzz"
   else
-
+  end
 end
